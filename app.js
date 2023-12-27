@@ -3,6 +3,6 @@ const msg = 'Hola Mundo';
 console.log(msg);
 const hero = {
     name: 'ironman',
-    age: 25
+    age: 22
 };
 console.log(hero.age + 1);
